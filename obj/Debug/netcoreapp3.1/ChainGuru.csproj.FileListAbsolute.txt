@@ -1,0 +1,13 @@
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.csprojAssemblyReference.cache
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.AssemblyInfoInputs.cache
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.AssemblyInfo.cs
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.csproj.CoreCompileInputs.cache
+D:\C#Project\Patterns\ChainGuru\bin\Debug\netcoreapp3.1\ChainGuru.exe
+D:\C#Project\Patterns\ChainGuru\bin\Debug\netcoreapp3.1\ChainGuru.deps.json
+D:\C#Project\Patterns\ChainGuru\bin\Debug\netcoreapp3.1\ChainGuru.runtimeconfig.json
+D:\C#Project\Patterns\ChainGuru\bin\Debug\netcoreapp3.1\ChainGuru.runtimeconfig.dev.json
+D:\C#Project\Patterns\ChainGuru\bin\Debug\netcoreapp3.1\ChainGuru.dll
+D:\C#Project\Patterns\ChainGuru\bin\Debug\netcoreapp3.1\ChainGuru.pdb
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.dll
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.pdb
+D:\C#Project\Patterns\ChainGuru\obj\Debug\netcoreapp3.1\ChainGuru.genruntimeconfig.cache
